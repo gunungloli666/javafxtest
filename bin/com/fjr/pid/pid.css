@@ -1,0 +1,10 @@
+
+.tab{
+/*	-fx-background-color: yellow;*/
+-fx-background-image: url("A.jpg");
+
+}
+
+.tab-pid{
+	-fx-background-color: green;
+}
