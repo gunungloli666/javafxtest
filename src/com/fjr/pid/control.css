@@ -1,0 +1,26 @@
+
+.habibi {
+	fx-fill: yellow;
+	fx-stroke:green;
+}
+
+.tab-pane{
+	-fx-background-color: red;
+}
+
+
+.tab{
+	-fx-background-color: #a9a9a9; 
+	-fx-border-width: 5,5,5,5;
+	-fx-border-color:  #ff69b4;
+	-fx-border-style: solid;
+	
+	/*-fx-stroke: green; */
+}
+
+.button {/*agar efek mnemonik nya g ketindis ama css dari controller --- maybe just a bug */}
+
+
+.play{
+	-fx-content-display: text-only;
+}

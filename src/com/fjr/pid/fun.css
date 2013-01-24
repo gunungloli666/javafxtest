@@ -1,0 +1,9 @@
+
+
+.tab{
+	-fx-border-width: 5,5,5,5;
+	-fx-pading: 2;
+	-fx-border-color:  #87cefa;
+	-fx-border-style: solid;
+	-fx-background-image: url("CheHigh.jpg");
+}
